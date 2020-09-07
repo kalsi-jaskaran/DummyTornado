@@ -1,0 +1,8 @@
+{
+  "response_code": 200,
+  "response_body": {
+    "message": "Operation completed successfully",
+    "compare_image": "True",
+    "match_percentage": 90
+  }
+}

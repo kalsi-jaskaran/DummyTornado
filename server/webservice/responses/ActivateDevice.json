@@ -1,0 +1,7 @@
+{
+  "response_code": 200,
+  "response_body": {
+    "message": "Device activated successfully",
+    "remote_id": 2
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "response_code": 200,
+  "response_body": {
+    "message": "Video Streaming Started successfully",
+    "response": {
+      "stream_status": "True",
+      "port": 50500,
+      "stream_url": "http://127.0.0.1:50500",
+      "slot_id": 1,
+      "stream_code": "snknklsnkml",
+      "controller_ip": "127.0.0.1"
+    }
+  }
+}

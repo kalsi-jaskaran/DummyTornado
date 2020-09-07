@@ -1,0 +1,9 @@
+{
+  "response_code": 200,
+  "response_body": {
+    "message": "Slot reserved successfully",
+    "access_token": "access_token",
+    "reservation_time": "10:10 PM",
+    "uuid": "uuid"
+  }
+}

@@ -1,0 +1,7 @@
+{
+  "response_code": 200,
+  "response_body": {
+    "message": "Operation Successful, Timer Stopped",
+    "time": 20.0
+  }
+}

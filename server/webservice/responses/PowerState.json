@@ -1,0 +1,6 @@
+{
+  "response_code": 200,
+  "response_body": {
+    "message": "DUT slot power on successfully"
+  }
+}
